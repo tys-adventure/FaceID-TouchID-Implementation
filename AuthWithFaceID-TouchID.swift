@@ -9,7 +9,7 @@ import Foundation
 import UIKit
 import LocalAuthentification
 
-stuct Auth {
+struct Auth {
 
 /*
 
